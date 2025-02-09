@@ -149,19 +149,30 @@ function App() {
               Katakana Only
             </label>
           </div>
-          <button
-            className="start-button"
-            onClick={handleStart}
-            disabled={startButtonLabel === "Continue" && !continueAvailable}
-          >
-            {startButtonLabel}
-          </button>
-          <button
-            className={`reset-button ${startButtonLabel === "Continue" && !continueAvailable ? "primary" : ""}`}
-            onClick={handleReset}
-          >
-            Reset
-          </button>
+          <p className="mastered-hint">
+            {hiraganaOnly ? (
+              <>Remember <i>Hiragana</i> for a Syllable <i>twice</i> and it will be tagged as mastered</>
+            ) : katakanaOnly ? (
+              <>Remember <i>Katakana</i> for a Syllable <i>twice</i> and it will be tagged as mastered</>
+            ) : (
+              <>Remember <i>both</i> Hiragana and Katakana for a Syllable <i>twice</i> and it will be tagged as mastered</>
+            )}
+          </p>
+          <div className="button-row">
+            <button
+              className="start-button"
+              onClick={handleStart}
+              disabled={startButtonLabel === "Continue" && !continueAvailable}
+            >
+              {startButtonLabel}
+            </button>
+            <button
+              className={`reset-button ${startButtonLabel === "Continue" && !continueAvailable ? "primary" : ""}`}
+              onClick={handleReset}
+            >
+              Reset
+            </button>
+          </div>
         </div>
       ) : (
         <Deck

@@ -73,6 +73,13 @@ h1 {
   margin-bottom: 20px;
 }
 
+.mastered-hint {
+  font-size: 0.8em;
+  color: #888;
+  margin-bottom: 20px;
+  margin: 0 30px;
+}
+
 .start-button {
   margin-top: 20px;
   padding: 10px 20px;
@@ -129,10 +136,18 @@ h1 {
 .toggle-label {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-  margin: 5px 0;
-  font-size: 1em;
+  font-size: 16px;
+  line-height: 16px;
   cursor: pointer;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  white-space: nowrap;
+}
+
+/* Remove the span styling entirely since we don't need it */
+.toggle-label span {
+  display: none;
 }
 
 .toggle-label input[type="checkbox"] {
@@ -145,8 +160,9 @@ h1 {
   position: relative;
   cursor: pointer;
   outline: none;
-  margin-right: 10px;
+  margin: 0 5px 0 0;
   transition: background-color 0.2s ease;
+  vertical-align: middle;
 }
 
 .toggle-label input[type="checkbox"]:checked {
@@ -185,4 +201,18 @@ h1 {
 
 .home-icon:hover {
   opacity: 0.8;
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.button-row button {
+  margin-top: 0;
+  margin-bottom: 0;
 }
