@@ -39,266 +39,266 @@
         "hiragana": "か",
         "katakana": "カ",
         "base": true,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "KI",
         "hiragana": "き",
         "katakana": "キ",
         "base": true,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "KU",
         "hiragana": "く",
         "katakana": "ク",
         "base": true,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "KE",
         "hiragana": "け",
         "katakana": "ケ",
         "base": true,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "KO",
         "hiragana": "こ",
         "katakana": "コ",
         "base": true,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "SA",
         "hiragana": "さ",
         "katakana": "サ",
         "base": true,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "SHI",
         "hiragana": "し",
         "katakana": "シ",
         "base": true,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "SU",
         "hiragana": "す",
         "katakana": "ス",
         "base": true,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "SE",
         "hiragana": "せ",
         "katakana": "セ",
         "base": true,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "SO",
         "hiragana": "そ",
         "katakana": "ソ",
         "base": true,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "TA",
         "hiragana": "た",
         "katakana": "タ",
         "base": true,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "CHI",
         "hiragana": "ち",
         "katakana": "チ",
         "base": true,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "TSU",
         "hiragana": "つ",
         "katakana": "ツ",
         "base": true,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "TE",
         "hiragana": "て",
         "katakana": "テ",
         "base": true,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "TO",
         "hiragana": "と",
         "katakana": "ト",
         "base": true,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "NA",
         "hiragana": "な",
         "katakana": "ナ",
         "base": true,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "NI",
         "hiragana": "に",
         "katakana": "ニ",
         "base": true,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "NU",
         "hiragana": "ぬ",
         "katakana": "ヌ",
         "base": true,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "NE",
         "hiragana": "ね",
         "katakana": "ネ",
         "base": true,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "NO",
         "hiragana": "の",
         "katakana": "ノ",
         "base": true,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "HA",
         "hiragana": "は",
         "katakana": "ハ",
         "base": true,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "HI",
         "hiragana": "ひ",
         "katakana": "ヒ",
         "base": true,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "FU",
         "hiragana": "ふ",
         "katakana": "フ",
         "base": true,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "HE",
         "hiragana": "へ",
         "katakana": "ヘ",
         "base": true,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "HO",
         "hiragana": "ほ",
         "katakana": "ホ",
         "base": true,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "MA",
         "hiragana": "ま",
         "katakana": "マ",
         "base": true,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "MI",
         "hiragana": "み",
         "katakana": "ミ",
         "base": true,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "MU",
         "hiragana": "む",
         "katakana": "ム",
         "base": true,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "ME",
         "hiragana": "め",
         "katakana": "メ",
         "base": true,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "MO",
         "hiragana": "も",
         "katakana": "モ",
         "base": true,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "YA",
         "hiragana": "や",
         "katakana": "ヤ",
         "base": true,
-        "root": "YA"
+        "root": "Y"
     },
     {
         "english": "YU",
         "hiragana": "ゆ",
         "katakana": "ユ",
         "base": true,
-        "root": "YA"
+        "root": "Y"
     },
     {
         "english": "YO",
         "hiragana": "よ",
         "katakana": "ヨ",
         "base": true,
-        "root": "YA"
+        "root": "Y"
     },
     {
         "english": "RA",
         "hiragana": "ら",
         "katakana": "ラ",
         "base": true,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "RI",
         "hiragana": "り",
         "katakana": "リ",
         "base": true,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "RU",
         "hiragana": "る",
         "katakana": "ル",
         "base": true,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "RE",
         "hiragana": "れ",
         "katakana": "レ",
         "base": true,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "RO",
         "hiragana": "ろ",
         "katakana": "ロ",
         "base": true,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "WA",
@@ -326,405 +326,405 @@
         "hiragana": "きゃ",
         "katakana": "キャ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "KYU",
         "hiragana": "きゅ",
         "katakana": "キュ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "KYO",
         "hiragana": "きょ",
         "katakana": "キョ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "SHA",
         "hiragana": "しゃ",
         "katakana": "シャ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "SHU",
         "hiragana": "しゅ",
         "katakana": "シュ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "SHO",
         "hiragana": "しょ",
         "katakana": "ショ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "CHA",
         "hiragana": "ちゃ",
         "katakana": "チャ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "CHU",
         "hiragana": "ちゅ",
         "katakana": "チュ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "CHO",
         "hiragana": "ちょ",
         "katakana": "チョ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "NYA",
         "hiragana": "にゃ",
         "katakana": "ニャ",
         "base": false,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "NYU",
         "hiragana": "にゅ",
         "katakana": "ニュ",
         "base": false,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "NYO",
         "hiragana": "にょ",
         "katakana": "ニョ",
         "base": false,
-        "root": "NA"
+        "root": "N"
     },
     {
         "english": "HYA",
         "hiragana": "ひゃ",
         "katakana": "ヒャ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "HYU",
         "hiragana": "ひゅ",
         "katakana": "ヒュ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "HYO",
         "hiragana": "ひょ",
         "katakana": "ヒョ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "MYA",
         "hiragana": "みゃ",
         "katakana": "ミャ",
         "base": false,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "MYU",
         "hiragana": "みゅ",
         "katakana": "ミュ",
         "base": false,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "MYO",
         "hiragana": "みょ",
         "katakana": "ミョ",
         "base": false,
-        "root": "MA"
+        "root": "M"
     },
     {
         "english": "RYA",
         "hiragana": "りゃ",
         "katakana": "リャ",
         "base": false,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "RYU",
         "hiragana": "りゅ",
         "katakana": "リュ",
         "base": false,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "RYO",
         "hiragana": "りょ",
         "katakana": "リョ",
         "base": false,
-        "root": "RA"
+        "root": "R"
     },
     {
         "english": "GYA",
         "hiragana": "ぎゃ",
         "katakana": "ギャ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "GYU",
         "hiragana": "ぎゅ",
         "katakana": "ギュ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "GYO",
         "hiragana": "ぎょ",
         "katakana": "ギョ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "JA",
         "hiragana": "じゃ",
         "katakana": "ジャ",
         "base": false,
-        "root": "KA"
+        "root": "S"
     },
     {
         "english": "JU",
         "hiragana": "じゅ",
         "katakana": "ジュ",
         "base": false,
-        "root": "KA"
+        "root": "S"
     },
     {
         "english": "JO",
         "hiragana": "じょ",
         "katakana": "ジョ",
         "base": false,
-        "root": "KA"
+        "root": "S"
     },
     {
         "english": "BYA",
         "hiragana": "びゃ",
         "katakana": "ビャ",
         "base": false,
-        "root": "KA"
+        "root": "H"
     },
     {
         "english": "BYU",
         "hiragana": "びゅ",
         "katakana": "ビュ",
         "base": false,
-        "root": "KA"
+        "root": "H"
     },
     {
         "english": "BYO",
         "hiragana": "びょ",
         "katakana": "ビョ",
         "base": false,
-        "root": "KA"
+        "root": "H"
     },
     {
         "english": "PYA",
         "hiragana": "ぴゃ",
         "katakana": "ピャ",
         "base": false,
-        "root": "KA"
+        "root": "H"
     },
     {
         "english": "PYU",
         "hiragana": "ぴゅ",
         "katakana": "ピュ",
         "base": false,
-        "root": "KA"
+        "root": "H"
     },
     {
         "english": "PYO",
         "hiragana": "ぴょ",
         "katakana": "ピョ",
         "base": false,
-        "root": "KA"
+        "root": "H"
     },
     {
         "english": "GA",
         "hiragana": "が",
         "katakana": "ガ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "GI",
         "hiragana": "ぎ",
         "katakana": "ギ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "GU",
         "hiragana": "ぐ",
         "katakana": "グ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "GE",
         "hiragana": "げ",
         "katakana": "ゲ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "GO",
         "hiragana": "ご",
         "katakana": "ゴ",
         "base": false,
-        "root": "KA"
+        "root": "K"
     },
     {
         "english": "ZA",
         "hiragana": "ざ",
         "katakana": "ザ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "JI",
         "hiragana": "じ",
         "katakana": "ジ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "ZU",
         "hiragana": "ず",
         "katakana": "ズ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "ZE",
         "hiragana": "ぜ",
         "katakana": "ゼ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "ZO",
         "hiragana": "ぞ",
         "katakana": "ゾ",
         "base": false,
-        "root": "SA"
+        "root": "S"
     },
     {
         "english": "DA",
         "hiragana": "だ",
         "katakana": "ダ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "DI",
         "hiragana": "ぢ",
         "katakana": "ヂ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "DU",
         "hiragana": "づ",
         "katakana": "ヅ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "DE",
         "hiragana": "で",
         "katakana": "デ",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "DO",
         "hiragana": "ど",
         "katakana": "ド",
         "base": false,
-        "root": "TA"
+        "root": "T"
     },
     {
         "english": "BA",
         "hiragana": "ば",
         "katakana": "バ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "BI",
         "hiragana": "び",
         "katakana": "ビ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "BU",
         "hiragana": "ぶ",
         "katakana": "ブ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "BE",
         "hiragana": "べ",
         "katakana": "ベ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "BO",
         "hiragana": "ぼ",
         "katakana": "ボ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "PA",
         "hiragana": "ぱ",
         "katakana": "パ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "PI",
         "hiragana": "ぴ",
         "katakana": "ピ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "PU",
         "hiragana": "ぷ",
         "katakana": "プ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "PE",
         "hiragana": "ぺ",
         "katakana": "ペ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     },
     {
         "english": "PO",
         "hiragana": "ぽ",
         "katakana": "ポ",
         "base": false,
-        "root": "HA"
+        "root": "H"
     }
 ]
