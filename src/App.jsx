@@ -69,6 +69,9 @@ function App() {
     setWavesMode(true);
     setHiraganaOnly(false);
     setKatakanaOnly(false);
+
+    // Refresh the page
+    window.location.reload();
   };
 
   // Compute the start button label based on saved flashcard progress.

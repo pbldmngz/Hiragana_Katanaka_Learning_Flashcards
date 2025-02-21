@@ -3,6 +3,9 @@
   height: 100vh;
   box-sizing: border-box;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
@@ -51,6 +54,16 @@
   background-color: #222;
   color: #fff;
   position: relative;
+}
+
+@media screen and (min-width: 768px) {
+  .app {
+    width: 400px;
+    height: 800px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
 }
 
 h1 {
